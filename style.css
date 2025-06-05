@@ -1,0 +1,12 @@
+body {
+  background-color: #f0f2f5; /* A light grey background */
+}
+
+.btn-primary {
+  background-color: #28a745; /* Green color for the submit button */
+  border-color: #28a745;
+}
+
+.form-group label {
+  font-weight: bold; /* Make form labels bold */
+}
